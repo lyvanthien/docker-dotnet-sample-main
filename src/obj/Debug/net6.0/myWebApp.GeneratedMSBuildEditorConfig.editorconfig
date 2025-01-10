@@ -22,6 +22,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/DockerLearn/docker-dotnet-sample-main/src/Pages/home-task-2-sub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG9tZS10YXNrLTItc3ViLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DockerLearn/docker-dotnet-sample-main/src/Pages/home-task-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG9tZS10YXNrLTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/DockerLearn/docker-dotnet-sample-main/src/Pages/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
